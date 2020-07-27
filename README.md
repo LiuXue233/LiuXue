@@ -1,5 +1,2 @@
-# Hello World
-# Hi,Liu Xue here!
-#lalala
-#lalala
-hhh
+# 学习打卡记录
+
